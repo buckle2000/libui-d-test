@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"user"
+	],
+	"dependencies": {
+	},
+	"libs": ["ui"],
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "d-libui"
+}

@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/d-libui
+d-libui.so
+d-libui.dylib
+d-libui.dll
+d-libui.a
+d-libui.lib
+d-libui-test-*
+*.exe
+*.o
+*.obj
+*.lst
